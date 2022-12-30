@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecedgeservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecedgeservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/configservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/configservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/eurekaservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/eurekaservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/hystrixservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/hystrixservice/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

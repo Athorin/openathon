@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecedgeservice/bookrecedgeservice.iml" filepath="$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecedgeservice/bookrecedgeservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecservice/bookrecservice.iml" filepath="$PROJECT_DIR$/openathon-2018-spring-boot-cloud/bookrecservice/bookrecservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/configservice/configservice.iml" filepath="$PROJECT_DIR$/openathon-2018-spring-boot-cloud/configservice/configservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/deors-demos-microservices.iml" filepath="$PROJECT_DIR$/openathon-2018-spring-boot-cloud/deors-demos-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/openathon-2018-spring-boot-cloud/eurekaservice/eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openathon-2018-spring-boot-cloud/hystrixservice/hystrixservice.iml" filepath="$PROJECT_DIR$/openathon-2018-spring-boot-cloud/hystrixservice/hystrixservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openathon.iml" filepath="$PROJECT_DIR$/.idea/openathon.iml" />
+    </modules>
+  </component>
+</project>
